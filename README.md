@@ -14,5 +14,5 @@ Docker pull manav23/nodewithalpine
 Docker images
 
 #start container on your hostmachine with this localhost port number
-Docker container run -p 3000:3000 manav23/nodewithalpine
+Docker container run -p 8000:8000 manav23/nodewithalpine
 ```
